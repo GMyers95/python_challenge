@@ -1,0 +1,5 @@
+There are 86 months considered in this dataset.
+The net total of Profits/Losses over the entire period is: $22564198
+The average change in Profits/Losses is $-8311.11.
+The best performing month is  with $1862002 in profit.
+The worst performing month is  with $-1825558 in loss.
